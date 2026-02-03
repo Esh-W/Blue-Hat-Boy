@@ -30,7 +30,10 @@ This is an **older learning project** created to practice core frontend and game
 This project was created earlier in my learning journey and is shared to document progress and experimentation.
 
 ## 📸 Demo
-Gameplay video available on LinkedIn.
+🎥 Gameplay video available on LinkedIn  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/posts/eshira-weerabahu-8113882aa_webdevelopment-javascript-gamedevelopment-activity-7424457989425668096-MwAt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpzRo0B88vhS5iqDGWxskzi2Kp6Kjo51nw)
+
 
 ---
 
