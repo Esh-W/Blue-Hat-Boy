@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Blue Hat Boy</title>
+
+    <link rel="icon" href="assets/images/Idle (1).ico"/>
+
+    <link rel="stylesheet" href="style.css"/>
+
+</head>
+
+<body class="body" onload="idleAnimationStart();">
+
+    <div class="d" id="d">
+
+        <div class="blue" id="blue">Blue Hat Boy</div>
+
+        <ul class="start" id="start">
+
+            <li class="sGame">Start Game</li>
+            <li>Press "Enter" to RUN</li>
+            <li>Press "Space" to JUMP</li>
+    
+        </ul>
+
+        <p class="score" id="score">0</p>
+        <img src="assets/images/Idle (1).png" class="boy" id="boy"/>
+
+    </div>
+
+    <div class="end" id="end">
+
+        <div class="over">Game Over</div>
+        <div>Total Score</div>
+        <div id="endscore">0</div>
+        <button onclick="reload();" class="btn">New Game</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
